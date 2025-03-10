@@ -13,7 +13,6 @@ I did everything myself. I used helpful tools like Google and Copilot to overcom
 - [About The App](#about-the-app)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Approach](#approach)
 - [Status](#status)
 - [Credits](#credits)
 - [License](#license)
@@ -28,9 +27,7 @@ I used the following technologies `html`, `css`& `javascript`
 - download all the files and open index.html in your browser
 - download or clone the repository
 - run `npm install`
-- ...
-# OR
-- open link provided above
+- OR open link provided above (easiest)
 
 ## Status
 This project did not reach my usual standards, but it will suffice for the use case right now.
