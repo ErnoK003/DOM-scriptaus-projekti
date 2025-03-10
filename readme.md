@@ -1,4 +1,4 @@
-# Project Title 
+# DOM scripting project 
 To do list app by ErnoK003
 
 ## Demo link:
