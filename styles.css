@@ -1,0 +1,41 @@
+body {
+    position:relative;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+button {
+    margin-left: 1%;
+    margin-top: 1%;
+    font-size: 15px
+}
+#addtask {
+    margin-left: 0%;
+    margin-top: 0%;
+    font-size: 13px;
+}
+
+p {
+    display: inline;
+    margin: 0.25%;
+}
+
+@media (max-width: 266px) {
+    body {
+        display: block;
+        overflow:auto;
+    }
+}
+
+.oma {
+    font-size: 10px;
+}
+
+h2 {
+    margin-top: 3%;
+    opacity: 0%;
+}
+
+
+#donetasks * {
+    display: block;
+}
