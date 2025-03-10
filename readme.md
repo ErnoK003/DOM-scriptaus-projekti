@@ -18,10 +18,10 @@ I did everything myself. I used helpful tools like Google and Copilot to overcom
 - [License](#license)
 
 ## About The App
-[To do list] is an app that lets you input all your tasks so you can check each one off after you are done with them
+`To do list` is an app that lets you input all your tasks so you can check each one off after you are done with them.
 
 ## Technologies
-I used the following technologies `html`, `css`& `javascript`
+I used the following technologies `html`, `css`& `javascript`.
 
 ## Setup
 - download all the files and open index.html in your browser
