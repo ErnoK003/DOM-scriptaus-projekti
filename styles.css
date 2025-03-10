@@ -6,12 +6,15 @@ body {
 button {
     margin-left: 1%;
     margin-top: 1%;
-    font-size: 15px
+    font-size: 15px;
+    border-color: rgb(0, 0, 0);
+
 }
 #addtask {
     margin-left: 0%;
     margin-top: 0%;
     font-size: 13px;
+    border-color: rgb(180, 180, 180);
 }
 
 p {
@@ -38,4 +41,8 @@ h2 {
 
 #donetasks * {
     display: block;
+}
+
+#cleardone {
+    opacity: 0%;
 }

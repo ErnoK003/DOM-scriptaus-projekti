@@ -8,12 +8,13 @@
     </head>
     <body>
         <h1 class="topheader">My todo list</h1>
-        <p2 class="oma">Created by Erno Korhonen</p2><br>
+        <p2 class="oma">Created by ErnoK003</p2><br>
         <input id="task" type="text" placeholder="Add a task" onkeydown="enterdown()"/>
         <button onclick="addTask()" id="addtask", >Add task</button>
         <div id="tasks"></div>
         <script src="script.js"></script>
-        <h2 class="middleheader">Done</h2>
+        <h2 class="middleheader">Completed</h2>
+        <button onclick="clearDone()" id="cleardone">Clear</button>
         <div id="donetasks"></div>
     </body>
 </html>
