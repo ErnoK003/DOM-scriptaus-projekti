@@ -7,5 +7,13 @@
     </head>
     <body>
         <h1 class="topheader">My todo list</h1>
+        <input id="task" type="text" placeholder="Add a task"/>
+        <button onclick="addTask()", >Add task</button>
+        <script>
+            function addTask() {
+                const task = document.getElementById('task').value  //haetaan input-kentän sisältö
+                console.log(task)
+            }
+        </script>
     </body>
 </html>
