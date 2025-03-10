@@ -2,17 +2,15 @@
 To do list app by ErnoK003
 
 ## Demo link:
-Access my site at [google.com](https://google.com)
+Access my site at todolistbyerno.netlify.app(https://todolistbyerno.netlify.app/)
 
 ## How was the workload divided
-How was the workload divided. Who did what? 
-
+I did everything myself. I used helpful tools like Google and Copilot to overcome any major obstacles.
 
 
 ## Table of Content:
 
 - [About The App](#about-the-app)
-- [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Approach](#approach)
@@ -21,34 +19,25 @@ How was the workload divided. Who did what?
 - [License](#license)
 
 ## About The App
-[Name of project] is an app that ...
-
-## Screenshots
-Add here atleast one screenshot of the working application 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
-
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+[To do list] is an app that lets you input all your tasks so you can check each one off after you are done with them
 
 ## Technologies
-Describe which technologies were used and the role of each in your project. 
-I used the following technologies `html`, `css`, ...
+I used the following technologies `html`, `css`& `javascript`
 
 ## Setup
-Write brief instructions on how to run and use your app. For example:
 - download all the files and open index.html in your browser
 - download or clone the repository
 - run `npm install`
 - ...
+# OR
+- open link provided above
 
 ## Status
-[name of project] is still in progress. `Version 2` will be out soon.
+This project did not reach my usual standards, but it will suffice for the use case right now.
 
 ## Credits
-List of contriubutors and sources you used during the project. Also mention if you used ChatGPT or other AI tools when coding and explain how did you benefit from them.
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
+- [W3schools](https://www.w3schools.com/)
+- [Copilot](https://code.visualstudio.com/docs/copilot/overview)
 
 ## License
-Choose a license for your project by following this [guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Example: MIT license @ [author](author.com)
+No required licenses.
